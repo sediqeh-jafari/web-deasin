@@ -2,7 +2,7 @@ import './style.css'
 
 
 
-function Main (){
+function Main () {
     return(
         <ul className='main'>
           <li>1کار <i class="fa fa-times  remove"></i></li>
