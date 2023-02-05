@@ -5,7 +5,8 @@ import './style.css'
 function Footer(){
     return(
         <div className='footer'>
-          hello world
+          <p className='left'>تایید </p>
+          <p className='right'>منصرف شدم</p>
         </div>
     )
       

@@ -3,13 +3,15 @@ import './style.css';
 
 import Header from  '../Header';
 
-import Main from  '../Main'
+import Main from  '../Main';
+import Footer from  '../Footer'
 function App() {
   return (
     // <div>sss</div>
     <div className="App">
         <Header/>
         <Main/>
+        <Footer/>
         {/* FONT FARSI */}
         <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
         {/* FONT ASOME */}
